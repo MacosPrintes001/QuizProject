@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu principal.unity
+    guid: 031e63fa63d99954786895ec7729af44
+  - enabled: 1
+    path: Assets/Scenes/Math Quiz/Menu Math.unity
+    guid: d9ffeecf3619774478837352dda750e9
+  - enabled: 1
+    path: Assets/Scenes/Math Quiz/Fund1.unity
+    guid: b881e7baeac932849819d6f4e6cf3c8c
+  - enabled: 1
+    path: Assets/Scenes/Math Quiz/Fund2.unity
+    guid: bf3846ea1a99cb1448ff30c6068675d5
+  - enabled: 1
+    path: Assets/Scenes/Math Quiz/Credts1.unity
+    guid: d07fe767a17f0a8419410bd3019fc7e8
+  - enabled: 1
+    path: Assets/Scenes/Math Quiz/SelectLevel.unity
+    guid: 561e2ffe76ed9b948a53b2785ecd7aa4
+  - enabled: 1
+    path: Assets/Scenes/Plantae/Menu Plantae.unity
+    guid: a11b086b6557dc54890fea716e4ec28d
+  - enabled: 1
+    path: Assets/Scenes/Plantae/Jogo.unity
+    guid: 210cbb5aaaf21584dbfd39e94c0341a4
+  - enabled: 1
+    path: Assets/Scenes/Plantae/Credts2.unity
+    guid: daf83f3330f47834a9944a2906e17f5e
+  m_configObjects: {}
